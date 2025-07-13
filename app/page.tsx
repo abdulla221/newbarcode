@@ -15,7 +15,7 @@ export default function HomePage() {
         </h1>
 
         {/* English Message */}
-        <p className="text-xl text-gray-700 mb-1">We're Coming Soon</p>
+        <p className="text-xl text-gray-700 mb-1">We&#39;re Coming Soon</p>
         <p className="text-md text-gray-600 mb-4">The website is currently under maintenance.</p>
 
         <hr className="border-t border-gray-300 my-4" />
