@@ -61,6 +61,7 @@ export default function BarcodeScannerPage() {
             </button>
           </div>
         )}
+
       </motion.div>
     </main>
   );
