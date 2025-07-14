@@ -5,7 +5,7 @@ import { motion } from "framer-motion";
 
 export default function BarcodeScannerPage() {
   const [barcode, setBarcode] = useState("");
-  const [scanning, setScanning] = useState(false);
+  const [, setScanning] = useState(false);
 
   const startScan = async () => {
     setBarcode("");
